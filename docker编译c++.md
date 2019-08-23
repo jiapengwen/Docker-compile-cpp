@@ -38,6 +38,7 @@ c++代码有时需要特定版本编译，这样每次都得更新GCC版本（GC
 1. 安装docker
 
 2. 拉取合适cmake和GCC版本镜像 
+
 `docker pull nercury/cmake-cpp:gcc-4.8`
 
 3. 利用docker编译代码
